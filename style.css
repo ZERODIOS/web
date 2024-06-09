@@ -1,0 +1,46 @@
+
+body {
+
+  color: black;
+}
+.clase-1{
+
+color: chocolate;
+
+}
+
+.clase-1 {
+  
+  font-family: Verdana;
+  font-size: 24px;
+}
+ 
+.clase-2 {
+  color: pink;
+  font-family: Verdana;
+  font-size: 28px;
+}
+
+img {
+  width: 250px;
+padding: 11px 5px 5px 10px;
+background-color: rgb(255, 145, 0);
+border-width: 2px;
+border-color: rgb(143, 143, 143);
+border-style: solid;
+}
+
+div {
+  background-color: rgb(0, 0, 0);
+}
+.clase-3 {
+  color: saddlebrown;
+  font-size: 38px;
+}
+.contenedor-listas {
+
+}
+#k {
+  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
